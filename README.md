@@ -1,2 +1,2 @@
 # xamarin-nlog-app
-App Xamarin.Forms with NLog
+App Xamarin.Forms and NLog with log file sharing 
